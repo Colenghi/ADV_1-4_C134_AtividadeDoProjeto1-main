@@ -1,0 +1,40 @@
+body{
+background-image: url("background.jpg");
+    background-size: cover;
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 10px 9px 11px grey;
+    color:red;
+}
+.note{
+    font-size: 18px;
+    color:black;
+    width: 80% ;
+    height: 20% !important;
+}
+.copy-right-footer{
+    position:fixed;
+    color:white;
+    bottom:10;
+    width: 100%;
+    background-image: linear-gradient(to right top, grey, rgba(21, 1, 1, 0.891), rgba(21, 1, 1, 0.666));
+    line-height: 3;
+    text-align: right;
+    box-shadow:4px 3px 5px rgb(21, 1, 1);
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+    height:8%;
+}
+#span2{
+    color: rgb(1, 158, 255);
+}
+h3{
+    font-family: 'Nothing You Could Do', cursive;
+}
+
+#span3{
+    color:darkslateblue;
+}
